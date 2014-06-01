@@ -8,4 +8,10 @@ provided in an as is form.
 Cite this statement in any work that uses prepublication data from The Beatson 
 Lab via:
 
-https://zenodo.org/badge/4339/BeatsonLab-MicrobialGenomics/Prepublication-data-statement.png
+.. image:: https://zenodo.org/badge/4339/BeatsonLab-MicrobialGenomics/Prepublication-data-statement.png
+   :target: http://dx.doi.org/10.5281/zenodo.10252
+   :alt: DOI
+
+
+
+
